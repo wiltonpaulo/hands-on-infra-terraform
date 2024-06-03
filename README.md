@@ -22,7 +22,7 @@ Para seguirmos com este processo, a próxima etapa é uma vídeo-aula que você 
 [Deploy AWS EC2 Instance, Key Pair, and Security Group with Terraform](https://medium.com/@sanky43jadhav/deploy-aws-ec2-instance-key-pair-and-security-group-with-terraform-fee3249078f7)
 
 ## Diagram
-![Diagram](docs/img/terraform-infra.png)
+![Diagram](terraform-infra.png)
 Source: https://medium.com/@sanky43jadhav/deploy-aws-ec2-instance-key-pair-and-security-group-with-terraform-fee3249078f7
 
 ### Parte 3 - Instalação
